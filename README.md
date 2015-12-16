@@ -23,7 +23,8 @@ Ce test a pour but de mettre en oeuvre une application permettant 2 choses :
 * Vous devez mettre à disposition votre code via Github
 * Vous ne devez pas utiliser l’API du site “Vie de Merde” pour récuperer les informations
 
-Note
+### Note
+
 * La description fonctionnelle via BeHat serait un plus
 * Si vous ne parvenez pas à utiliser l’ensemble des eléments requis, n’hésitez­pas à présenter tout de même votre test dans sa version la plus aboutie.
 * Vous disposez du temps dont vous avez besoin à la bonne réalisation du test
