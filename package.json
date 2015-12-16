@@ -1,0 +1,16 @@
+{
+  "name": "iviedemerde",
+  "version": "1.0.0",
+  "description": "Helps you get your daily dose of VDM posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/jeremypaul_fr/iviedemerde.git"
+  },
+  "author": "Jérémy Paul <contact@jeremypaul.fr>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/jeremypaul_fr/iviedemerde#readme"
+}
