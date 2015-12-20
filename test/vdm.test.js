@@ -1,7 +1,7 @@
 var rewire = require('rewire');
 var expect = require('chai').expect;
 var Chance = require('chance');
-var chance = new Chance("test"); //Seed is "test", don't loose it.
+var chance = new Chance("test"); //Seed is "test", don't lose it.
 var vdm    = rewire('../lib/vdm');
 
 //Mocking some posts before testing
