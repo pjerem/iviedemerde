@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/jeremypaul_fr/iviedemerde.git"
+    "url": "git+ssh://git@github.com:pjerem/iviedemerde.git"
   },
   "author": "Jérémy Paul <contact@jeremypaul.fr>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/jeremypaul_fr/iviedemerde#readme",
+  "homepage": "https://github.com/pjerem/iviedemerde/",
   "dependencies": {
     "commander": "^2.9.0",
     "express": "^4.13.3",
