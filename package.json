@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node extract-vdm.js && node server.js",
     "extract-vdm": "node extract-vdm.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,11 @@
     "express": "^4.13.3",
     "lodash": "^3.10.1",
     "shoveljs": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chance": "^0.8.0",
+    "mocha": "^2.3.4",
+    "rewire": "^2.5.1"
   }
 }
