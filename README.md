@@ -1,12 +1,11 @@
 # iViedermerde
 
 Ce repository contient ma réponse à l'énoncé de test à l'embauche d'iAdvize.
-Note importante : Ce serveur utilise entre autres dépendances ShovelJS, une
-librairie d'extraction de
 
 ## Ma réponse
 Pour répondre a cet énnoncé, j'ai choisi d'écrire une librairie capable d'extraire
 des données depuis n'importe quelle URL en utilisant des sélecteurs jQuery.
+
 ***Cette librairie a été développée pour l'occasion et fait donc partie intégrante du test.***
 
 Vous la trouverez ici : https://github.com/pjerem/shoveljs
