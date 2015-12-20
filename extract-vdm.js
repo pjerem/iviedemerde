@@ -1,4 +1,4 @@
-#!/bin/env node
+#!env node
 
 /**
  * Ce script ne fait rien d'autre qu'appeller ShovelJS et enregistrer le retour
