@@ -1,7 +1,7 @@
 var packageJson = require('./package.json')
 var program = require('commander');
 var express = require('express');  
-var vdm = require('./vdm');
+var vdm = require('./lib/vdm');
 
 
 var app = express();
