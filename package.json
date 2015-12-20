@@ -2,8 +2,10 @@
   "name": "iviedemerde",
   "version": "1.0.0",
   "description": "Helps you get your daily dose of VDM posts.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node extract-vdm.js && node server.js",
+    "extract-vdm": "node extract-vdm.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,5 +14,11 @@
   },
   "author": "Jérémy Paul <contact@jeremypaul.fr>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/jeremypaul_fr/iviedemerde#readme"
+  "homepage": "https://bitbucket.org/jeremypaul_fr/iviedemerde#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "shoveljs": "^1.0.0"
+  }
 }
