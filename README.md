@@ -33,8 +33,8 @@ Mon choix s'est donc porté sur :
 
 ### Description du test
 Ce test a pour but de mettre en oeuvre une application permettant 2 choses :
-1. Permettre à l’aide d’une ligne de commande, d’aller chercher les 200 derniers enregistrements du site “Vie de merde” et de les stocker. (Champs à récupérer : Contenu, Date et heure, et auteur)
-2. Permettre la lecture des enregistrements précedemment récupérés à l’aide d’une API REST au format JSON
+* Permettre à l’aide d’une ligne de commande, d’aller chercher les 200 derniers enregistrements du site “Vie de merde” et de les stocker. (Champs à récupérer: Contenu, Date et heure, et auteur)
+* Permettre la lecture des enregistrements précedemment récupérés à l’aide d’une API REST au format JSON
 
 ### Eléments requis
 * Vous devez utiliser GIT pour versionner vos fichiers
@@ -42,8 +42,3 @@ Ce test a pour but de mettre en oeuvre une application permettant 2 choses :
 * Vous devez tester unitairement votre code
 * Vous devez mettre à disposition votre code via Github
 * Vous ne devez pas utiliser l’API du site “Vie de Merde” pour récuperer les informations
-
-### Note
-* La description fonctionnelle via BeHat serait un plus **Inapplicable en JS**
-* Si vous ne parvenez pas à utiliser l’ensemble des eléments requis, n’hésitez­pas à présenter tout de même votre test dans sa version la plus aboutie.
-* Vous disposez du temps dont vous avez besoin à la bonne réalisation du test
