@@ -27,6 +27,7 @@ npm test # Lance les tests.
 ```
 ## Rappel de l'énoncé
 Ci dessous un simple copier-coller de l'énoncé auquel je me permet d'ajouter quelques remarques. Il m'a en effet été proposé de répondre à cet énoncé avec n'importe quel langage et framework de mon choix. 
+
 Mon choix s'est donc porté sur :
 * ECMAScript, dans sa bonne vieille version 5
 * Express
